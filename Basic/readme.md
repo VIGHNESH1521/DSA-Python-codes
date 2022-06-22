@@ -14,3 +14,4 @@
 - Conversion
     - Fahrenheit to Celsius
     - Celsius to Fahrenheit
+- Program to check if a Number is Positive, Negative or Zero 
