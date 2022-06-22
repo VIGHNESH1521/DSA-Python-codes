@@ -11,3 +11,6 @@
 - Conversion of KILOMETER to MILES
     - using Function
     - using variables 
+- Conversion
+    - Fahrenheit to Celsius
+    - Celsius to Fahrenheit
