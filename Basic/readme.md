@@ -8,3 +8,6 @@
     - using a comma operator
     - using XOR operator
     - using addition and subtraction operator
+- Conversion of KILOMETER to MILES
+    - using Function
+    - using variables 
