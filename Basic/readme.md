@@ -15,3 +15,4 @@
     - Fahrenheit to Celsius
     - Celsius to Fahrenheit
 - Program to check if a Number is Positive, Negative or Zero 
+- Program to Check if a Number is Odd or Even
