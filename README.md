@@ -18,6 +18,16 @@ A data structure is a named location that can be used to store and organize data
 
 Python is a widely used general-purpose, high level programming language. It was created by Guido van Rossum in 1991 and further developed by the Python Software Foundation. It was designed with an emphasis on code readability, and its syntax allows programmers to express their concepts in fewer lines of code.
 
+# Why Python?
+
+![image](https://user-images.githubusercontent.com/90493668/153876499-6ab08071-d057-4bbd-ad9f-9272349c0c03.png)
+
+- Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+- Python has a simple syntax similar to the English language.
+- Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+- Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+- Python can be treated in a procedural way, an object-oriented way or a functional way.
+
 # FEATURES
 
 - INTERPRETED
